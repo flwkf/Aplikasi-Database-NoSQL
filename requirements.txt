@@ -1,0 +1,8 @@
+tkinter
+ttkbootstrap
+pymongo
+Pillow
+pandas
+matplotlib
+numpy
+seaborn
