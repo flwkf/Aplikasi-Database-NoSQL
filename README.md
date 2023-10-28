@@ -6,13 +6,18 @@ Ini adalah repositori untuk proyek Tugas Besar Database NoSQL dalam rangka Ujian
 
 Proyek ini bertujuan untuk mengimplementasikan basis data NoSQL MongoDB dalam sebuah aplikasi Python. Aplikasi ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data dalam database MongoDB. Aplikasi memiliki antarmuka grafis yang memudahkan pengguna dalam mengakses dan memanipulasi data.
 
-## Teknologi yang Digunakan
+## Struktur Direktori
 
-- Python: Bahasa pemrograman utama yang digunakan untuk mengembangkan aplikasi.
-- Tkinter: Library Python yang digunakan untuk membuat antarmuka pengguna (GUI).
-- MongoDB: Database NoSQL yang digunakan untuk menyimpan data.
+Repositori ini memiliki struktur direktori sebagai berikut:
 
-## Cara Menggunakan Aplikasi
+- **nosql/**: Folder ini berisi file dan sumber daya yang digunakan dalam aplikasi.
+
+  - `FinWiz.ico`: File ikon aplikasi.
+  - `FinWiz2.py`: File utama aplikasi.
+
+## Instalasi
+
+Berikut adalah langkah-langkah untuk menginstal dan menjalankan aplikasi:
 
 1. Pastikan Anda memiliki Python terinstal di komputer Anda. Jika belum, Anda dapat mengunduhnya di [python.org](https://www.python.org/downloads/).
 
@@ -42,7 +47,9 @@ Proyek ini bertujuan untuk mengimplementasikan basis data NoSQL MongoDB dalam se
    python main.py
    ```
 
-7. Aplikasi akan membuka jendela GUI yang memungkinkan Anda untuk melakukan operasi CRUD pada database MongoDB.
+## Cara Menggunakan Aplikasi
+
+Setelah Anda menjalankan aplikasi, Anda dapat menggunakannya untuk melakukan berbagai operasi pada database MongoDB, seperti menambahkan, mengedit, atau menghapus data. Pastikan untuk mengikuti panduan pengguna yang disediakan di dalam aplikasi.
 
 ## Kontribusi
 
@@ -57,7 +64,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya di [rizalrahmanr@gmail.com](mailto:rizalrahmanr@gmail.com).
 
 Terima kasih atas perhatian Anda, dan selamat menggunakan aplikasi ini!
-
----
-
-Anda dapat menyesuaikan README di atas sesuai dengan proyek Tugas Besar Database NoSQL Anda. Pastikan untuk menyertakan informasi yang relevan dan berguna untuk pengguna dan pengembang yang akan bekerja dengan proyek Anda. Juga, pastikan untuk menyertakan instruksi yang jelas tentang cara menginstal, menjalankan, dan berkontribusi pada proyek Anda.
