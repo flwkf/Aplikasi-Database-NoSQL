@@ -1,66 +1,66 @@
-# Tugas Besar Database NoSQL
+# NoSQL Database Final Project
 
-Ini adalah repositori untuk proyek Tugas Besar Database NoSQL dalam rangka Ujian Akhir Semester Mata Kuliah Basis Data NoSQL. Proyek ini adalah aplikasi sederhana yang terkoneksi dengan database NoSQL MongoDB menggunakan bahasa pemrograman Python dengan antarmuka pengguna (GUI) Tkinter.
+This is a repository for the NoSQL Database Final Project in the context of the Final Semester Exam of the NoSQL Database course. This project is a simple application that connects to a MongoDB NoSQL database using the Python programming language with a graphical user interface (GUI) implemented using Tkinter.
 
-## Deskripsi Proyek
+## Project Description
 
-Proyek ini bertujuan untuk mengimplementasikan basis data NoSQL MongoDB dalam sebuah aplikasi Python. Aplikasi ini memungkinkan pengguna untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data dalam database MongoDB. Aplikasi memiliki antarmuka grafis yang memudahkan pengguna dalam mengakses dan memanipulasi data.
+The project aims to implement the MongoDB NoSQL database in a Python application. This application allows users to perform CRUD (Create, Read, Update, Delete) operations on data in the MongoDB database. The application has a graphical interface that makes it easy for users to access and manipulate data.
 
-## Struktur Direktori
+## Directory Structure
 
-Repositori ini memiliki struktur direktori sebagai berikut:
+This repository has the following directory structure:
 
-- **nosql/**: Folder ini berisi file dan sumber daya yang digunakan dalam aplikasi.
+- **nosql/**: This folder contains files and resources used in the application.
 
-  - `FinWiz.ico`: File ikon aplikasi.
-  - `FinWiz2.py`: File utama aplikasi.
+  - `FinWiz.ico`: Application icon file.
+  - `FinWiz2.py`: The main application file.
 
-## Instalasi
+## Installation
 
-Berikut adalah langkah-langkah untuk menginstal dan menjalankan aplikasi:
+Here are the steps to install and run the application:
 
-1. Pastikan Anda memiliki Python terinstal di komputer Anda. Jika belum, Anda dapat mengunduhnya di [python.org](https://www.python.org/downloads/).
+1. Ensure you have Python installed on your computer. If not, you can download it from [python.org](https://www.python.org/downloads/).
 
-2. Instal MongoDB dan pastikan server MongoDB berjalan. Anda dapat mengunduh MongoDB di [mongodb.com](https://www.mongodb.com/try/download/community).
+2. Install MongoDB and make sure the MongoDB server is running. You can download MongoDB from [mongodb.com](https://www.mongodb.com/try/download/community).
 
-3. Clone repositori ini ke komputer Anda:
-
-   ```
-   git clone https://github.com/username/Tugas_Besar_Database_NoSQL.git
-   ```
-
-4. Masuk ke direktori proyek:
+3. Clone this repository to your computer:
 
    ```
-   cd Tugas_Besar_Database_NoSQL
+   git clone https://github.com/username/NoSQL_Database_Final_Project.git
    ```
 
-5. Instal semua dependensi yang diperlukan:
+4. Navigate to the project directory:
+
+   ```
+   cd NoSQL_Database_Final_Project
+   ```
+
+5. Install all the required dependencies:
 
    ```
    pip install -r requirements.txt
    ```
 
-6. Jalankan aplikasi:
+6. Run the application:
 
    ```
    python main.py
    ```
 
-## Cara Menggunakan Aplikasi
+## How to Use the Application
 
-Setelah Anda menjalankan aplikasi, Anda dapat menggunakannya untuk melakukan berbagai operasi pada database MongoDB, seperti menambahkan, mengedit, atau menghapus data. Pastikan untuk mengikuti panduan pengguna yang disediakan di dalam aplikasi.
+After you run the application, you can use it to perform various operations on the MongoDB database, such as adding, editing, or deleting data. Be sure to follow the user guide provided within the application.
 
-## Kontribusi
+## Contribution
 
-Jika Anda ingin berkontribusi pada proyek ini, silakan buat _fork_ dari repositori ini, lakukan perubahan yang diperlukan, dan kirimkan _pull request_. Kami sangat menghargai kontribusi Anda.
+If you want to contribute to this project, please fork this repository, make the necessary changes, and submit a pull request. Your contributions are highly appreciated.
 
-## Lisensi
+## License
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
-## Kontak
+## Contact
 
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya di [rizalrahmanr@gmail.com](mailto:rizalrahmanr@gmail.com).
+If you have any questions or feedback, feel free to contact me at [rizalrahmanr@gmail.com](mailto:rizalrahmanr@gmail.com).
 
-Terima kasih atas perhatian Anda, dan selamat menggunakan aplikasi ini!
+Thank you for your attention, and enjoy using this application!
